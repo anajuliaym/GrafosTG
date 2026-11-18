@@ -1,0 +1,420 @@
+2
+118
+0 "Parque Independência [Ar Livre]" 0
+1 "Museu do Ipiranga [Cultura]" 0
+2 "Sesc Ipiranga [Cultura]" 0
+3 "Aquário de São Paulo [Lazer]" 0
+4 "Mercado Municipal do Ipiranga [Gastronomia]" 0
+5 "Museu de Zoologia da Universidade de São Paulo [Cultura]" 0
+6 "Casa do Grito | Museu da Cidade de São Paulo [Cultura]" 0
+7 "Bar do Nico [Bar]" 0
+8 "Damp Sorvetes [Gastronomia]" 0
+9 "Centro Universitário São Camilo - Ipiranga [Educação]" 0
+10 "Clube Atlético Ypiranga [Esporte]" 0
+11 "Cantina do Magrão [Bar]" 0
+12 "Edições Loyola [Leitura]" 0
+13 "Hambúrguer seu Oswaldo [Gastronomia]" 0
+14 "Deck Ipiranga Beach Sports & Bar [Esporte]" 0
+15 "Klabin Beach Sports [Geral]" 0
+16 "Kaskata's Lanches [Gastronomia]" 0
+17 "Parque Ibirapuera [Ar Livre]" 0
+18 "Sesc Vila Mariana [Cultura]" 0
+19 "Parque Casa Modernista [Geral]" 0
+20 "Museu Lasar Segall [Cultura]" 0
+21 "Shopping Metrô Santa Cruz [Lazer]" 0
+22 "Veloso Bar [Bar]" 0
+23 "Fortunato Bar [Bar]" 0
+24 "Taverna Medieval [Gastronomia]" 0
+25 "ESPM [Educação]" 0
+26 "Faculdade Belas Artes - Campus Vila Mariana [Educação]" 0
+27 "Biblioteca Municipal Viriato Corrêa [Leitura]" 0
+28 "Jazz Restô e Burgers [Música]" 0
+29 "Praça Rosa Alves da Silva [Ar Livre]" 0
+30 "Jabuti - Frutos do Mar [Gastronomia]" 0
+31 "Osnir Hamburger Paraiso [Gastronomia]" 0
+32 "Mapu Baos e comidinhas [Gastronomia]" 0
+33 "Dona Preciosa Gastrobar [Bar]" 0
+34 "Centro Cultural São Paulo [Cultura]" 0
+35 "Museu Afro Brasil [Cultura]" 0
+36 "Museu de Arte Moderna de São Paulo [Cultura]" 0
+37 "Auditório Ibirapuera [Música]" 0
+38 "Planetário do Ibirapuera [Educação]" 0
+39 "Monumento às Bandeiras [Cultura]" 0
+40 "Ginásio do Ibirapuera [Esporte]" 0
+41 "Cinemateca Brasileira [Cultura]" 0
+42 "Parque da Aclimação [Ar Livre]" 0
+43 "Parque Dom Pedro II [Ar Livre]" 0
+44 "Catedral Metropolitana Nossa Senhora da Assunção [Cultura]" 0
+45 "Bar e Lanches Jm Neves [Geral]" 0
+46 "Sesc Carmo [Cultura]" 0
+47 "Praça Doutor João Mendes [Geral]" 0
+48 "Sebo do Messias [Leitura]" 0
+49 "Casa de Francisca [Música]" 0
+50 "Praça da Sé [Ar Livre]" 0
+51 "Mercado Municipal de São Paulo [Gastronomia]" 0
+52 "Pateo do Collegio [Cultura]" 0
+53 "Praça da Liberdade [Gastronomia]" 0
+54 "Museu Histórico da Imigração Japonesa [Cultura]" 0
+55 "Madero & Jeronimo Burger Shopping Light [Gastronomia]" 0
+56 "Bar e Lanches Estadão [Gastronomia]" 0
+57 "Bar do Cofre [Bar]" 0
+58 "Pinacoteca do Estado de São Paulo [Cultura]" 0
+59 "Sala São Paulo [Música]" 0
+60 "Museu da Língua Portuguesa [Cultura]" 0
+61 "Jardim da Luz [Ar Livre]" 0
+62 "Mosteiro de São Bento [Cultura]" 0
+63 "Centro Cultural Banco do Brasil [Cultura]" 0
+64 "Farol Santander [Cultura]" 0
+65 "Praça da República [Ar Livre]" 0
+66 "Eduardo Proença Livraria [Leitura]" 0
+67 "Galeria Metrópole [Lazer]" 0
+68 "Theatro Municipal de São Paulo [Música]" 0
+69 "Biblioteca Mário de Andrade [Leitura]" 0
+70 "Galeria do Rock [Música]" 0
+71 "Sesc 24 de Maio [Cultura]" 0
+72 "Edifício Copan [Geral]" 0
+73 "Praça Roosevelt [Esporte]" 0
+74 "Edifício Itália [Gastronomia]" 0
+75 "Sesc Consolação [Cultura]" 0
+76 "Teatro Oficina [Cultura]" 0
+77 "Instituto Tomie Ohtake [Cultura]" 0
+78 "Esporte Clube Pinheiros [Esporte]" 0
+79 "Sesc Pinheiros [Cultura]" 0
+80 "Escape 60' [Games]" 0
+81 "Bar do Juarez Pinheiros [Bar]" 0
+82 "STUDIO YOGA SP [Yoga]" 0
+83 "Beco do Batman [Ar Livre]" 0
+84 "Largo da Batata [Ar Livre]" 0
+85 "Praça Benedito Calixto [Lazer]" 0
+86 "Mercado Municipal de Pinheiros [Gastronomia]" 0
+87 "Museu da Imagem e do Som [Cultura]" 0
+88 "Parque do Povo [Ar Livre]" 0
+89 "Praça do Pôr do Sol [Ar Livre]" 0
+90 "Bourbon Shopping Săo Paulo [Lazer]" 0
+91 "Teatro Bradesco [Cultura]" 0
+92 "Teatro TUCA [Cultura]" 0
+93 "Faculdade Santa Marcelina São Paulo em Perdizes [Geral]" 0
+94 "Z Deli Sandwiches [Geral]" 0
+95 "Academia Smart Fit - Perdizes [Esporte]" 0
+96 "Museu do Futebol [Cultura]" 0
+97 "Parque da Água Branca [Ar Livre]" 0
+98 "Casa das Caldeiras [Cultura]" 0
+99 "Nubank Parque [Esporte]" 0
+100 "Sesc Pompeia [Cultura]" 0
+101 "Memorial da América Latina [Cultura]" 0
+102 "Parque das Bicicletas [Esporte]" 0
+103 "Bourbon Street Music Club [Música]" 0
+104 "Bar do Juarez Moema: Chopp, Picanha, Feijoada, Almoço, Drinks, Delivery SP [Bar]" 0
+105 "Quintal do Espeto Pavão [Bar]" 0
+106 "Clube Atlético Monte Líbano [Esporte]" 0
+107 "InYoga [Yoga]" 0
+108 "Shopping Ibirapuera [Lazer]" 0
+109 "MASP [Cultura]" 0
+110 "Parque Trianon [Ar Livre]" 0
+111 "Japan House São Paulo [Cultura]" 0
+112 "Casa das Rosas [Leitura]" 0
+113 "Sesc Avenida Paulista [Cultura]" 0
+114 "Instituto Moreira Salles [Cultura]" 0
+115 "Conjunto Nacional [Leitura]" 0
+116 "Itaú Cultural [Cultura]" 0
+117 "Teatro Sérgio Cardoso [Cultura]" 0
+299
+0 1 0.16
+0 2 0.18
+0 5 0.45
+0 6 0.34
+0 10 1.09
+1 2 0.25
+1 5 0.29
+1 6 0.5
+1 7 0.47
+1 10 1.2
+2 5 0.52
+2 6 0.35
+2 10 0.95
+3 5 0.7
+3 7 0.63
+3 9 0.63
+3 13 0.77
+3 14 1.19
+4 8 0.62
+4 11 0.28
+4 14 0.93
+4 15 0.74
+4 16 0.7
+5 6 0.79
+5 7 0.2
+5 13 0.47
+6 10 0.88
+7 13 0.28
+7 15 0.57
+8 11 0.57
+8 12 0.56
+8 13 0.47
+8 15 0.17
+8 16 0.18
+9 11 0.64
+9 13 0.73
+9 14 0.6
+11 14 0.75
+11 15 0.64
+12 13 0.87
+12 15 0.61
+12 16 0.39
+13 15 0.31
+13 16 0.6
+15 16 0.29
+17 35 0.24
+17 36 0.38
+17 37 0.2
+17 38 0.3
+17 39 0.7
+18 28 0.51
+18 29 1.21
+18 31 0.53
+18 32 0.53
+18 33 0.44
+19 20 0.29
+19 21 0.51
+19 25 0.99
+19 27 0.67
+20 21 0.51
+20 25 0.7
+20 27 0.37
+21 24 1.05
+21 27 0.66
+22 25 0.72
+22 26 0.69
+22 28 0.67
+22 29 0.66
+22 42 1.34
+23 24 0.5
+23 30 0.26
+23 32 0.1
+23 33 0.22
+23 41 0.49
+24 25 0.43
+24 26 0.44
+24 27 0.53
+24 41 0.24
+25 26 0.08
+25 27 0.39
+25 33 0.6
+26 27 0.47
+26 33 0.52
+28 29 0.71
+28 33 0.76
+28 42 1.27
+29 42 0.68
+30 31 0.64
+30 32 0.31
+30 33 0.47
+30 41 0.44
+31 32 0.58
+31 33 0.65
+31 40 0.88
+32 33 0.17
+32 41 0.59
+34 42 1.24
+34 111 0.45
+34 112 0.51
+34 113 0.56
+34 116 0.59
+35 36 0.59
+35 37 0.34
+35 38 0.19
+35 39 0.45
+35 40 0.73
+36 37 0.28
+36 38 0.68
+36 102 1.28
+36 106 1.26
+37 38 0.47
+37 40 0.86
+38 39 0.5
+39 40 0.52
+39 87 1.78
+41 102 1.38
+43 46 0.45
+43 51 0.66
+43 52 0.28
+43 57 0.44
+43 63 0.44
+43 64 0.44
+44 45 0.11
+44 46 0.44
+44 47 0.09
+44 48 0.13
+44 50 0.11
+44 53 0.43
+45 47 0.18
+45 48 0.16
+45 49 0.22
+45 50 0.12
+45 53 0.47
+46 47 0.42
+46 50 0.45
+47 48 0.09
+47 50 0.19
+47 53 0.35
+47 54 1.02
+48 50 0.23
+48 53 0.31
+48 54 1.0
+48 76 0.71
+49 50 0.18
+49 52 0.21
+49 63 0.14
+51 57 0.66
+51 58 0.94
+51 60 0.94
+51 61 1.13
+51 62 0.51
+51 64 0.65
+52 57 0.27
+52 63 0.18
+52 64 0.27
+53 54 0.69
+53 76 0.59
+53 117 0.98
+54 76 0.92
+55 66 0.23
+55 68 0.14
+55 70 0.25
+55 71 0.27
+56 67 0.26
+56 69 0.15
+56 72 0.3
+56 73 0.42
+56 74 0.36
+56 76 0.74
+56 117 0.92
+57 62 0.27
+57 63 0.19
+57 64 0.02
+58 59 0.6
+58 60 0.14
+58 61 0.19
+59 60 0.49
+59 61 0.52
+59 65 1.09
+60 61 0.23
+62 63 0.46
+62 64 0.26
+62 68 0.5
+63 64 0.21
+65 66 0.22
+65 67 0.28
+65 71 0.23
+65 74 0.24
+66 68 0.18
+66 70 0.14
+66 71 0.07
+67 69 0.13
+67 72 0.21
+67 74 0.14
+67 75 0.78
+68 70 0.12
+68 71 0.18
+69 72 0.26
+69 74 0.26
+70 71 0.09
+72 73 0.33
+72 74 0.15
+72 75 0.57
+73 74 0.48
+73 75 0.45
+73 117 0.9
+74 75 0.67
+76 117 0.41
+77 79 0.85
+77 81 0.21
+77 82 0.77
+77 84 0.56
+77 86 0.54
+77 89 1.14
+78 79 1.73
+78 84 1.8
+78 87 1.81
+78 88 0.7
+79 81 1.05
+79 84 0.44
+79 86 0.61
+79 88 2.43
+80 81 1.09
+80 83 0.56
+80 85 0.15
+80 87 1.61
+80 94 0.62
+81 82 0.61
+81 83 0.72
+81 84 0.71
+81 85 1.23
+81 86 0.64
+81 89 1.18
+82 83 0.69
+82 89 0.96
+83 85 0.64
+83 94 1.14
+84 86 0.17
+84 88 2.5
+84 89 1.59
+85 87 1.65
+85 94 0.66
+87 88 2.11
+87 94 1.0
+90 91 0.36
+90 98 0.65
+90 99 0.66
+90 100 0.22
+91 98 0.39
+91 99 0.31
+91 100 0.23
+92 93 0.68
+92 95 0.67
+92 96 1.17
+92 97 0.88
+93 95 1.13
+93 96 1.24
+93 97 0.79
+93 101 0.97
+95 97 0.71
+95 98 1.0
+95 99 0.76
+95 101 1.29
+96 114 1.03
+96 115 1.4
+97 101 0.59
+98 99 0.29
+98 100 0.61
+98 101 1.25
+99 100 0.52
+102 104 1.02
+102 106 0.27
+103 104 1.09
+103 105 0.64
+103 107 0.75
+103 108 0.34
+104 105 0.89
+104 106 1.06
+104 107 1.04
+104 108 0.79
+105 106 1.27
+105 107 0.18
+105 108 0.37
+107 108 0.53
+109 110 0.24
+109 114 0.86
+109 115 0.51
+109 117 1.24
+110 114 0.86
+110 115 0.48
+110 116 1.47
+111 112 0.08
+111 113 0.11
+111 116 0.15
+112 113 0.07
+112 116 0.11
+113 116 0.04
+114 115 0.37
+3 19 1.97
